@@ -39,7 +39,7 @@ services:
       PMA_HOST: mysql
       PMA_PORT: 3306
     ports:
-      - '8081:80'
+      - '8085:80'
     volumes: 
       - /sessions
   redis:
