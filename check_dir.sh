@@ -10,5 +10,7 @@ then
 else 
 
   mkdir docker-compose
+  
+  echo "Directory Created"
 
 fi
