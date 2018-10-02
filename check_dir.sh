@@ -9,6 +9,6 @@ then
 
 else 
 
-  echo "Directory not Exists"
+  mkdir docker-compose
 
 fi
