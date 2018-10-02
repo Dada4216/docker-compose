@@ -1,16 +1,16 @@
-#!/bin/bash
+##!/bin/bash
  
 
-if [ -d /root/docker-compose-lamp-stack/docker-compose ]
+#if [ -d /root/docker-compose-lamp-stack/docker-compose ]
 
-then
+#then
 
-   echo "Directory Exists"
+ #  echo "Directory Exists"
 
-else 
+#else 
 
-  mkdir docker-compose
+ # mkdir docker-compose
   
-  echo "Directory Created"
+  #echo "Directory Created"
 
-fi
+#fi
