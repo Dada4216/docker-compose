@@ -1,7 +1,7 @@
 #!/bin/bash
  
 
-if [ -d /home/dada/Downloads ]
+if [ -d /root/docker-compose-lamp-stack/docker-compose ]
 
 then
 
