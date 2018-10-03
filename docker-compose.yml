@@ -28,8 +28,8 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: tiger
       MYSQL_DATABASE: png
-      MYSQL_USER: dada
-      MYSQL_PASSWORD: dada
+      MYSQL_USER: png
+      MYSQL_PASSWORD: png
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
     container_name: 'png-phpmyadmin'
