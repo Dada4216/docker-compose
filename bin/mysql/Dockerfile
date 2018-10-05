@@ -1,3 +1,4 @@
-#FROM mysql:5.7
-FROM mysql:latest
+FROM mysql:8.0
+
+#FROM mysql:latest
 
